@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi there 👋
+Welcome to my page!
+> I'm 100D, UI/UX Designer & UI Developer.
+
+
+
 
 <!--
 **KoolB-100D/KoolB-100D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
