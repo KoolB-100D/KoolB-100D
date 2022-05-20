@@ -1,7 +1,9 @@
 # Hi there 👋
 Welcome to my page!
 > I'm 100D, UI/UX Designer & UI Developer.
-![ex_screenshot]([./img/screenshot.png](https://github.com/KoolB-100D/KoolB-100D/blob/205fa828aed4e70c340849e02fa0e0f2fa3089a7/image/resume.png)
+
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/KoolB-100D/KoolB-100D/blob/205fa828aed4e70c340849e02fa0e0f2fa3089a7/image/resume.png)
 
 
 <!--
