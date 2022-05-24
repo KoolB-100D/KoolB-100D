@@ -9,8 +9,7 @@ Welcome to my page!
 ![typescript](https://img.shields.io/badge/Typescript-3178c6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white)
 ![vue](https://img.shields.io/badge/vue-4fc08d?style=flat-square&logo=vue.js&logoColor=white)
-![This is an image](https://github.com/KoolB-100D/KoolB-100D/blob/205fa828aed4e70c340849e02fa0e0f2fa3089a7/image/resume_icon.png)
-
+![This is an image](https://github.com/KoolB-100D/KoolB-100D/blob/cc8f7e558d98a77838416a3ec869249e1061e748/image/resume_icon.png)
 
 <!--
 **KoolB-100D/KoolB-100D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
