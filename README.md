@@ -1,7 +1,7 @@
 # Hi there 👋
 Welcome to my page!
 > I'm 100D, UI/UX Designer & UI Developer.
-
+![This is an image](https://github.com/KoolB-100D/KoolB-100D/blob/7b557a4f5f32f02706c95292fea7dff6b7044b9e/image/Fullstack.png)
 ## Stack
 ![html5](https://img.shields.io/badge/HTML5-E34f26?style=flat-square&logo=HTML5&logoColor=white)
 ![css3](https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=CSS3&logoColor=white)
